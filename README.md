@@ -30,4 +30,12 @@ The `SS-GNN` defines the prediction of DTBA as a regression task, in which the m
 
 ## Citation
 
-Please cite the following paper if you find this repository useful.
+When using this project in your research, please cite:
+<section id="citation">
+  <blockquote>
+    Zhang, S., Jin, Y., Liu, T., Wang, Q., Zhang, Z., Zhao, S., & Shan, B. (2023).<br>
+    <strong>SS-GNN: A Simple-Structured Graph Neural Network for Affinity Prediction.</strong><br>
+    <i>ACS Omega</i>, 8(25), 22496–22507.<br>
+    <a href="https://doi.org/10.1021/acsomega.3c00085">https://doi.org/10.1021/acsomega.3c00085</a>
+  </blockquote>
+</section>
